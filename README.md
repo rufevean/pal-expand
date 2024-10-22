@@ -1,1 +1,3 @@
 # pal-expand
+
+**PORT THE PROGRAM TO C OR GO TO INCREASE ITS SPEED**
